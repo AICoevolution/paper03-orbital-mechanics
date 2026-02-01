@@ -1,0 +1,30 @@
+Folder PATH listing
+Volume serial number is 7AB9-01C0
+C:.
+|   FILE_TREE.txt
+|   README.md
+|   references.bib
+|   render.bat
+|   S64-orbital-paper.md
+|   title-block.tex
+|   
++---analysis
+|   +---datasets
+|   |       09_steering_2026-01-15_16-26-38.json
+|   |       09_steering_2026-01-17_06-37-09.json
+|   |       09_steering_2026-01-17_18-58-47.json
+|   |       09_steering_2026-01-17_19-19-31.json
+|   |       09_steering_2026-01-19_22-58-59_human_session.json
+|   |       09_steering_2026-01-20_13-27-51_human_session.json
+|   |       human_run_01_deep.json
+|   |       
+|   \---scripts
+|           09_steering_experiment.py
+|           15_human_session_comparison.py
+|           16_human_fig3_merged.py
+|           
+\---open_source
+        hello_aicoevolution.py
+        README.md
+        semantic_telemetry.py
+        
